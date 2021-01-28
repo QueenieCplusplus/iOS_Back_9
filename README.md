@@ -85,3 +85,5 @@ using Semaphore to show signal for controlling the same Thread
 2. output 
 
    ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_9/main/thread%20num%20%3D%205.png)
+   
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_9/main/siganl%20show.png)
